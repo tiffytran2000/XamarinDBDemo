@@ -1,0 +1,12 @@
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.csprojAssemblyReference.cache
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.csproj.CoreCompileInputs.cache
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.AssemblyInfoInputs.cache
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.AssemblyInfo.cs
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/bin/Debug/netstandard2.0/DBDemo.deps.json
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/bin/Debug/netstandard2.0/DBDemo.dll
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/bin/Debug/netstandard2.0/DBDemo.pdb
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.dll
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/DBDemo.pdb
+/Users/tiffytran2000/Projects/DBDemo/DBDemo/obj/Debug/netstandard2.0/Useless Files/MainPage.xaml.g.cs
